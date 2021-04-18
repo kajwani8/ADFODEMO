@@ -1,0 +1,9 @@
+{
+	"name": "kunalADFDemo",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4703080e-9358-4511-8a60-1d6ebed830e4",
+		"tenantId": "21ac6b43-726e-486f-9a57-fe738a8d7a7a"
+	}
+}
